@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright (C) 2023 someone5678
+  SPDX-License-Identifier: GPL-3.0-or-later
+  License-Filename: LICENSE
+-->
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">蓝牙设备助手</string>
+
+    <!-- Settings title -->
+    <string name="settings_title">高级设置</string>
+
+    <!-- More settings title -->
+    <string name="more_settings_title">更多设置</string>
+    <string name="more_settings_subtitle">自动 播放/暂停，和更多</string>
+  
+    <!-- OnePod mode -->
+    <string name="onepod_mode_title">OnePod 模式</string>
+    <string name="onepod_mode_summary">即使正在使用一台 AirPod，也可启用音频播放控制。</string>
+
+    <!-- Auto play -->
+    <string name="auto_play_title">自动播放</string>
+    <string name="auto_play_summary">佩戴 AirPods 时，音频会自动播放。</string>
+
+    <!-- Auto pause -->
+    <string name="auto_pause_title">自动暂停</string>
+    <string name="auto_pause_summary">摘下 AirPods 时，音频会自动暂停。</string>
+
+    <!-- Low latency audio -->
+    <string name="low_latency_audio_title">低延迟音频</string>
+    <string name="low_latency_audio_summary">启用可减少音频延迟。\n开启后需要重新连接 AirPods。 这可能会增加电池消耗。</string>
+    <string name="low_latency_audio_slice_subtitle">需要重新连接 AirPods。</string>
+</resources>
